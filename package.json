@@ -1,0 +1,28 @@
+{
+  "name": "particlefy",
+  "version": "1.0.0",
+  "description": "Turn your image to particle based Object that escape from your mouse!",
+  "keywords": [
+    "Particle",
+    "animation",
+    "Animated",
+    "logo",
+    "Image",
+    "Processing"
+  ],
+  "homepage": "https://github.com/kamaterasu/particlefy#readme",
+  "bugs": {
+    "url": "https://github.com/kamaterasu/particlefy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamaterasu/particlefy.git"
+  },
+  "license": "ISC",
+  "author": "B.Tuguldur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
